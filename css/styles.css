@@ -1,0 +1,15 @@
+body{
+    margin:5% 10% 0% 10%;
+}
+
+.navbar{
+    height:100px;
+    border-radius:1%;
+}
+
+.nav-item{
+    font-size: 20px;
+    padding-left:10px;
+    padding-right:10px;
+    
+}
