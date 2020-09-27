@@ -60,58 +60,61 @@ p {
 
 /* starting of the skills section */
 
-#skills{
-    background-color:rgb(235, 210, 158);
-    padding:20px;
+#skills {
+    background-color: rgb(235, 210, 158);
+    padding: 20px;
 }
 
-#skills h2{
+#skills h2 {
     text-align: center;
-    line-height:1.5;
+    line-height: 1.5;
     margin-bottom: 40px;
     font-weight: lighter;
-    font-size:2.5rem; 
+    font-size: 2.5rem;
 }
 
-.row-upper{
-    margin-bottom:20px;
+.row-upper {
+    margin-bottom: 20px;
 }
 
-.row-lower{
-    margin-bottom:40px;    
+.row-lower {
+    margin-bottom: 40px;
 }
 
-.progress{
-    height:20px;
-    background-color:rgba(228, 199, 138, 0.897);    
+.progress {
+    height: 20px;
+    background-color: rgba(228, 199, 138, 0.897);
 }
 
 
 /* ending of the skills section */
 
 
-.jumbotron
-{
-    padding:2rem;
-    margin-bottom:0px;
+/* Experience section started */
+
+.jumbotron {
+    padding: 2rem;
+    margin-bottom: 0px;
 }
 
-#experience h2{
-    text-align:center;
+#experience h2 {
+    text-align: center;
     font-weight: lighter;
-    font-size:2.5rem;
-    line-height:1.5;
+    font-size: 2.5rem;
+    line-height: 1.5;
 }
 
-.experience-content{
-    margin-left:0px;
-    margin-right:0px;
-    padding:20px;
-    padding-top:60px;
+.experience-content {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 20px;
+    padding-top: 60px;
 }
 
-#experience hr{
-    width:10%;
-    border:dotted  6px;
+#experience hr {
+    width: 10%;
+    border: dotted 6px;
     border-bottom: none;
 }
+
+/* experience section completed */
