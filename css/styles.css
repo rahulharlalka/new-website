@@ -1,5 +1,6 @@
 body{
     margin:5% 10% 0% 10%;
+    background-color: rgba(250, 249, 249, 0.932);
 }
 
 .navbar{
@@ -12,4 +13,42 @@ body{
     padding-left:10px;
     padding-right:10px;
     
+}
+
+.title-content{
+    background-image:url("https://picsum.photos/1450");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-left:0px;
+    margin-right:0px;
+
+}
+
+h1{
+    
+    line-height: 1.5;
+    width:50%;
+    height:auto;
+    padding:40px 30px 0px 100px;
+    margin-bottom:0px;
+    font-size:4em;
+}
+
+h3{
+    width:45%;
+    padding:5px 30px 10px 100px;
+    font-weight: 50px;
+    line-height:1.5;
+}
+
+p{
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+
+.title-content p{
+    width:60%;
+    height:auto;
+    padding:20px 30px 150px 100px;
 }
