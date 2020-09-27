@@ -93,6 +93,7 @@ p {
 .jumbotron
 {
     padding:2rem;
+    margin-bottom:0px;
 }
 
 #experience h2{
@@ -100,4 +101,17 @@ p {
     font-weight: lighter;
     font-size:2.5rem;
     line-height:1.5;
+}
+
+.experience-content{
+    margin-left:0px;
+    margin-right:0px;
+    padding:20px;
+    padding-top:60px;
+}
+
+#experience hr{
+    width:10%;
+    border:dotted  6px;
+    border-bottom: none;
 }
