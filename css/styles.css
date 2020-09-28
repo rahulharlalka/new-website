@@ -61,7 +61,7 @@ p {
 /* starting of the skills section */
 
 #skills {
-    background-color: rgba(241, 223, 183, 0.993);
+    background-color: #dbc596;
     padding: 20px;
 ;
 }
@@ -84,7 +84,7 @@ p {
 
 .progress {
     height: 20px;
-    background-color: rgba(218, 194, 144, 0.897);
+    background-color: #b39c6ac4;
 }
 
 
