@@ -128,3 +128,21 @@ p {
     line-height: 1.5;
     color:white;
 }
+
+
+#portfolio img{
+    max-width: 100%;
+    height:auto;
+    margin-left:0px;
+    margin-right:0px;
+}
+
+.portfolio-image{
+    padding-left:0px;
+    padding-right:0px;
+}
+
+#portfolio .row{
+    margin-left:0px;
+    margin-right:0px;
+}
