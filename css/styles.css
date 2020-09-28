@@ -454,3 +454,13 @@ contact starting */
     border-radius:0px;
     margin-top:15px;
 }
+
+
+/* footer */
+
+.footer-content{
+    text-align:center;
+    color:white;
+    font-weight:lighter;
+    font-size:1rem;
+}
