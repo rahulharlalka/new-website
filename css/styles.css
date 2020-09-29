@@ -18,7 +18,7 @@ body {
 }
 
 .title-content {
-    background-image: url("https://picsum.photos/1450");
+    background-image: url("black-title-image.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     margin-left: 0px;
@@ -44,7 +44,6 @@ h3 {
 }
 
 p {
-    font-weight: bold;
     line-height: 1.5;
 }
 
@@ -94,7 +93,7 @@ p {
 /* Experience section started */
 
 .jumbotron {
-    padding: 2rem;
+    padding: 2.5rem;
     margin-bottom: 0px;
 }
 
@@ -110,6 +109,7 @@ p {
     margin-right: 0px;
     padding: 20px;
     padding-top: 60px;
+    padding-bottom:60px;
 }
 
 #experience hr {
